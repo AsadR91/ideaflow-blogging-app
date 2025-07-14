@@ -1,8 +1,5 @@
-Great catch! Here’s the updated full step-by-step including the **`npm init -y`** step for setting up a new Node.js project if you’re starting fresh, plus all the other details.
 
----
-
-# Local Development Setup (Complete Steps)
+## Local Development Setup (Complete Steps)
 
 ---
 
